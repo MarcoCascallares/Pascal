@@ -3,5 +3,5 @@ var
     a : string;
 begin
     ReadLn(a);
-    Write(a);
+    Write('||', a, '||');
 end.
